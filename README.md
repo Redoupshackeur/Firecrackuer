@@ -1,3 +1,6 @@
+#Firecrackuer
+
+
 apt update && apt upgrade
 pkg install git -y
 pkg install python2 -y
